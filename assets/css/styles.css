@@ -401,6 +401,7 @@ body.dark-theme {
   font-size: var(--smaller-font-size);
 }
 
+
 /* Hide and show projects & skills */
 .filters [data-content] {
   display: none;
@@ -418,7 +419,7 @@ body.dark-theme {
 /*=============== FOOTER ===============*/
 .footer__copy {
   display: block;
-  margin: 2.5 rem 0 2rem;
+  margin: 2.5rem 0 2rem;
   text-align: center;
   font-size: var(--smaller-font-size);
   color: var(--text-color-light);
